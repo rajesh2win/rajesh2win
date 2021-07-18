@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rajesh2win
+- 👋 Hi, I’m Rajesh
 - 👀 I’m interested in Distributed systems and AWS.
-- 🌱 I’m currently learning GoLang.
+- 🌱 I’m currently learning GoLang and event based systems.
 - 💞️ I’m looking to collaborate on massive PVP game servers .
 - 📫 How to reach me twitter @rajesh2win
 
