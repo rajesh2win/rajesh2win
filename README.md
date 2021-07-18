@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Vs_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=AWS&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS?style=for-the-badge&logo=AWS&logoColor=white">
 
 </p>
