@@ -22,5 +22,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.icons8.com/ios-filled/2x/java-coffee-cup-logo.png"> JAVA </img>
 
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<a href="https://icons8.com/icon/44442/golang">Golang icon by Icons8</a>
 
 </p>
