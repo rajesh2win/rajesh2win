@@ -2,7 +2,7 @@
 - 👀 I’m interested in Distributed systems and AWS.
 - 🌱 I’m currently learning GoLang.
 - 💞️ I’m looking to collaborate on massive PVP game servers .
-- 📫 How to reach me ...
+- 📫 How to reach me twitter @rajesh2win
 
 <!---
 rajesh2win/rajesh2win is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
