@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Vs_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.icons8.com/ios-filled/2x/java-coffee-cup-logo.png"> JAVA </img>
 
 
 </p>
